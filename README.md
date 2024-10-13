@@ -8,29 +8,29 @@
 
 Technologies 
 
-# JAVA
+### JAVA
 Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, GraalVM, ActiveMQ, JUnit5/Mockito/AssertJ testing, WireMock <br/>
 
-# WEB
+### WEB
 Javascript & Typescript, HTML & CSS, React, Vue.js
 
-# DATABASE
+### DATABASE
 MySQL, JDBC/JPA, MongoDB, SQLite
 
-# GIT
+### GIT
 Console commands, GitHub, Github Actions, Gerrit
 
-# Containerization
+### Containerization
 Docker, Docker compose, Kubernetes
 
-# WebServices
+### WebServices
 Restful API
 
-# IDEs
+### IDEs
 IntelliJ, VSCode
 
-# WORKFLOW
+### WORKFLOW
 TDD, MVC, CI/CD, Github actions & Projects
 
-# WoW
+### WoW
 Agile methods, Scrum, Kanban
