@@ -1,10 +1,5 @@
 ## Hi there, im Anton 👋
 
-<!--
-**AntonLindskog96/AntonLindskog96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🎓 I studied to become a Java developer for 2 years and continue to deepen my programming skills. <br/>
 - 🌱 Currently, I'm learning more about modern development frameworks, cloud technologies, and other programming languages like C#.<br/>
 - 📫 How to reach me: Lindskog96@live.se<br/>
