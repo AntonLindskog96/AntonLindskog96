@@ -9,7 +9,7 @@
 # 💻 Tech Stack:
 
 ### JAVA
-Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, GraalVM, ActiveMQ, JUnit5/Mockito/AssertJ testing, WireMock <br/>
+Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, JUnit5/Mockito/AssertJ testing, <br/>
 
 ### WEB
 Javascript & Typescript, HTML & CSS, React, Vue.js
