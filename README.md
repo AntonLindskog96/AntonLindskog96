@@ -15,7 +15,7 @@ Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, JUnit5/Mockito/As
 Javascript & Typescript, HTML & CSS, React, Vue.js
 
 ### DATABASE
-MySQL, JDBC/JPA, MongoDB, SQLite
+MySQL, JDBC/JPA, MongoDB, SQLite, PostGreSQL
 
 ### GIT
 Console commands, GitHub, Github Actions, Gerrit
